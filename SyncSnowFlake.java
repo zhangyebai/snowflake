@@ -97,7 +97,7 @@ public class SyncSnowFlake {
      * @apiNote 有碰撞的可能
      *
      * @return long
-     * @author weng xiaoyong
+     * @author zhang yebai
      * @date 2020/11/3 14:05
      */
     private static long makeDataCenterId() {
